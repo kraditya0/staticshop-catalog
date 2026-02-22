@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "email": "23f3000360@ds.study.iitm.ac.in",
+    "version": "4df208df"
+  },
+  "products": [
+    {"id": 1, "name": "Wireless Mouse", "category": "electronics", "price": 799.00, "stock": 120, "rating": 4.4},
+    {"id": 2, "name": "Mechanical Keyboard", "category": "electronics", "price": 2499.00, "stock": 80, "rating": 4.6},
+    {"id": 3, "name": "USB-C Cable", "category": "electronics", "price": 299.00, "stock": 300, "rating": 4.2},
+    {"id": 4, "name": "Laptop Stand", "category": "accessories", "price": 999.00, "stock": 60, "rating": 4.5},
+    {"id": 5, "name": "Phone Case", "category": "accessories", "price": 399.00, "stock": 150, "rating": 4.1},
+    {"id": 6, "name": "Bluetooth Speaker", "category": "electronics", "price": 1999.00, "stock": 45, "rating": 4.3},
+    {"id": 7, "name": "Desk Lamp", "category": "home", "price": 1499.00, "stock": 70, "rating": 4.4},
+    {"id": 8, "name": "Office Chair", "category": "home", "price": 8999.00, "stock": 25, "rating": 4.6},
+    {"id": 9, "name": "Water Bottle", "category": "lifestyle", "price": 499.00, "stock": 200, "rating": 4.2},
+    {"id": 10, "name": "Backpack", "category": "lifestyle", "price": 2199.00, "stock": 55, "rating": 4.5},
+    {"id": 11, "name": "Notebook", "category": "stationery", "price": 199.00, "stock": 500, "rating": 4.0},
+    {"id": 12, "name": "Pen Set", "category": "stationery", "price": 299.00, "stock": 350, "rating": 4.1},
+    {"id": 13, "name": "Monitor 24 inch", "category": "electronics", "price": 12999.00, "stock": 30, "rating": 4.7},
+    {"id": 14, "name": "HDMI Cable", "category": "electronics", "price": 499.00, "stock": 180, "rating": 4.3},
+    {"id": 15, "name": "Yoga Mat", "category": "fitness", "price": 999.00, "stock": 90, "rating": 4.4},
+    {"id": 16, "name": "Dumbbell Set", "category": "fitness", "price": 3499.00, "stock": 40, "rating": 4.5},
+    {"id": 17, "name": "Advanced Algorithms Book", "category": "books", "price": 38981.39, "stock": 1, "rating": 4.9}
+  ],
+  "aggregations": {
+    "books": {
+      "count": 1,
+      "inventoryValue": 38981.39
+    }
+  }
+}
